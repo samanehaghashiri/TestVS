@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestVS": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

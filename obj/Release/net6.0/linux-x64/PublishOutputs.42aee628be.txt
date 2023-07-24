@@ -1,0 +1,17 @@
+D:\TestVS\bin\Release\net6.0\publish\linux-x64\TestVS
+D:\TestVS\bin\Release\net6.0\publish\linux-x64\TestVS.dll
+D:\TestVS\bin\Release\net6.0\publish\linux-x64\TestVS.deps.json
+D:\TestVS\bin\Release\net6.0\publish\linux-x64\TestVS.runtimeconfig.json
+D:\TestVS\bin\Release\net6.0\publish\linux-x64\TestVS.pdb
+D:\TestVS\bin\Release\net6.0\publish\linux-x64\Microsoft.Identity.Client.dll
+D:\TestVS\bin\Release\net6.0\publish\linux-x64\Microsoft.IdentityModel.Abstractions.dll
+D:\TestVS\bin\Release\net6.0\publish\linux-x64\Microsoft.Win32.SystemEvents.dll
+D:\TestVS\bin\Release\net6.0\publish\linux-x64\Newtonsoft.Json.dll
+D:\TestVS\bin\Release\net6.0\publish\linux-x64\System.Configuration.ConfigurationManager.dll
+D:\TestVS\bin\Release\net6.0\publish\linux-x64\System.DirectoryServices.dll
+D:\TestVS\bin\Release\net6.0\publish\linux-x64\System.DirectoryServices.AccountManagement.dll
+D:\TestVS\bin\Release\net6.0\publish\linux-x64\System.DirectoryServices.Protocols.dll
+D:\TestVS\bin\Release\net6.0\publish\linux-x64\System.Drawing.Common.dll
+D:\TestVS\bin\Release\net6.0\publish\linux-x64\System.Security.Cryptography.ProtectedData.dll
+D:\TestVS\bin\Release\net6.0\publish\linux-x64\System.Security.Permissions.dll
+D:\TestVS\bin\Release\net6.0\publish\linux-x64\System.Windows.Extensions.dll
